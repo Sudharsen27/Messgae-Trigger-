@@ -73,7 +73,7 @@ const Newsletter = () => {
             type="submit"
             className="bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold shadow-lg transform transition-all hover:bg-blue-700 hover:scale-105 focus:ring-4 focus:ring-blue-300"
           >
-            Subscribed
+            Subscribeed
           </button>
         </div>
       </form>
